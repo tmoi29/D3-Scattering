@@ -1,8 +1,8 @@
-//Team
+//Team XDDD
 //Tiffany Moi and Leo Liu
 //SoftDev2 pd7
-//K12 -- Medallions ...of Data!
-//2018-03-020
+//K13 -- Scattered
+//2018-03-22
 
 
 
